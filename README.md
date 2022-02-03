@@ -8,4 +8,6 @@ The purpose is to analyse data of ride sharing information throughout several ci
 * Suburban city types had higher amount of total rides and better ratio of average fare per ride / average fare per driver than rural cities. 
 * Urban city types are the most profitable with the most total rides and better average fare per ride / average fare per driver ratio than all city types.
 
+![alt text](PyBer_fare_summary.png)
+
 ## Summary 
